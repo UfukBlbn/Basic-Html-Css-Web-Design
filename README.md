@@ -1,7 +1,7 @@
 # Basic-Html-Css-Web-Design
 Just Frontend working
 
-In this web page you will find basically css and html codes. Frontend is a work, it was created entirely on design.
+In this web page you will find basically css and html codes. It was created entirely on design.
 
 
 ![d1](https://user-images.githubusercontent.com/71414017/131905131-18da82f0-8930-4d35-a0fa-a233ef5440bc.PNG)
